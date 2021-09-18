@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_hello_world=self.webpackChunkgatsby_starter_hello_world||[]).push([[672],{235:function(t,e,r){r.r(e),r.d(e,{default:function(){return l}});var n=r(294),a=r(37);function l(){return n.createElement(a.ZP,{to:"/contact/"},"서비스")}}}]);
+//# sourceMappingURL=component---src-pages-test-js-e4246fc18b0ea78c007c.js.map

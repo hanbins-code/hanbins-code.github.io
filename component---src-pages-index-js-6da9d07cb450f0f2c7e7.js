@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_hello_world=self.webpackChunkgatsby_starter_hello_world||[]).push([[678],{704:function(e,t,r){r.r(t),r.d(t,{default:function(){return n}});var l=r(294);function n(){return l.createElement("div",null,"이제부터 게임을 시작한다.")}}}]);
+//# sourceMappingURL=component---src-pages-index-js-6da9d07cb450f0f2c7e7.js.map
